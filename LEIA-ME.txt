@@ -1,0 +1,15 @@
+KOMBUCHA LAB — APRESENTAÇÃO DE PESQUISA
+
+Abra index.html no Chrome ou Edge após extrair o ZIP. Mantenha a pasta assets junto do arquivo principal.
+
+A apresentação inclui:
+- Hero com recorte transparente do recipiente enviado; apenas o recipiente é composto sobre o fundo.
+- Faixa de seleção dos cinco tratamentos com imagens de referência.
+- Painel metodológico com a referência visual do laboratório e opção de ampliar a imagem completa; detalhes interativos dos tratamentos, análises e resumo do delineamento.
+- Fluxograma experimental fornecido pela autora, com opção de ampliar ao clicar.
+- Controles clicáveis para girar e pausar o recipiente, selecionar sabores, explorar etapas e abrir explicações dos métodos analíticos.
+- Layout responsivo para celular, com navegação adaptada e guia por etapas com indicador de progresso.
+- Garrafa e painel experimental interativos; as tonalidades dos recipientes são apenas ilustrativas.
+
+O rótulo de goiaba é provisório, pois a arte final não foi enviada. Volumes, proporções e períodos são propostas do protocolo a confirmar em ensaio piloto. Não há resultados experimentais apresentados.
+
